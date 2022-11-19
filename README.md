@@ -65,7 +65,6 @@ Sri Sai Ram Engineering College
 
 **Backend:** Python, Flask ,Anacconda,IBM cloud
 
-**Database:** IBM DB2
 
 
 
